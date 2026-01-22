@@ -34,8 +34,8 @@
 
 <br/>
 
-<a href="https://github.com/iuricode" title="Perfil do Lethalnv">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LethalN&theme=dracula&show_icons=true" />
+<a href="https://github.com/Lethalnv" title="Perfil do Lethalnv">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lethalnv&theme=dracula&show_icons=true" />
 </a>
 
 ## Onde me encontrar
