@@ -3,9 +3,9 @@
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando {Ciencias da Computação} na {FIAP}.
-- 💼 Trabalhando na área {comercial} na {Alpha}.
-- 🌱 Aprendendo mais sobre {Java e SQL}.
+- 🎓 Estudando Ciencias da Computação na FIAP.
+- 💼 Trabalhando na área comercial na Alpha.
+- 🌱 Aprendendo mais sobre Java e SQL.
 
 ## Minhas Skills
 
