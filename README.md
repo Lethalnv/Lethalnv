@@ -37,8 +37,3 @@
 <a href="https://github.com/Lethalnv" title="Perfil do Lethalnv">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lethalnv&theme=dracula&show_icons=true" />
 </a>
-
-## Onde me encontrar
-
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/Lethalnv)
